@@ -1,0 +1,15 @@
+/home/kisonix/github/SimHack/bin/Debug/net9.0/SimHack
+/home/kisonix/github/SimHack/bin/Debug/net9.0/SimHack.deps.json
+/home/kisonix/github/SimHack/bin/Debug/net9.0/SimHack.runtimeconfig.json
+/home/kisonix/github/SimHack/bin/Debug/net9.0/SimHack.dll
+/home/kisonix/github/SimHack/bin/Debug/net9.0/SimHack.pdb
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.GeneratedMSBuildEditorConfig.editorconfig
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.AssemblyInfoInputs.cache
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.AssemblyInfo.cs
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.csproj.CoreCompileInputs.cache
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.sourcelink.json
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.dll
+/home/kisonix/github/SimHack/obj/Debug/net9.0/refint/SimHack.dll
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.pdb
+/home/kisonix/github/SimHack/obj/Debug/net9.0/SimHack.genruntimeconfig.cache
+/home/kisonix/github/SimHack/obj/Debug/net9.0/ref/SimHack.dll
